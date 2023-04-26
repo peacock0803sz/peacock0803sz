@@ -1,6 +1,6 @@
 # Hi, I'm Peacock :clap:
 
-- :camera: I’m currently working on [CMScom Inc.](https://www.cmscom.jp)
+- :camera: I’m currently working on [TOPGATE Inc.](https://www.topgate.co.jp)
     - You can see my resume at [here](content/resume.md)
 - :seedling: I’m currently learning Python, React, AWS, Docker etc...
 - :mailbox: How to reach me:
